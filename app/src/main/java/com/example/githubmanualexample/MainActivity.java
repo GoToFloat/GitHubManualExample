@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Vitalya-victor
 
-
+        Toast.makeText(this, "test com", Toast.LENGTH_SHORT).show();
     }
 
 }
