@@ -17,9 +17,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    public void test (){
+    private void test2(){
 
-
+        //aaa
     }
 
 }
