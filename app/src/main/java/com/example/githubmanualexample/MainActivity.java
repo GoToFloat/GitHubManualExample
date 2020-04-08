@@ -23,12 +23,9 @@ public class MainActivity extends AppCompatActivity {
 
         //Vitalya-victor
 
-<<<<<<< HEAD
-       // new Victor
-        //NEWvITALIY
-=======
 
->>>>>>> parent of dedeb9d... initial commit add comment new viktor
+
+
 
     }
 
