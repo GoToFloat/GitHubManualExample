@@ -24,9 +24,6 @@ public class MainActivity extends AppCompatActivity {
         //Vitalya-victor
 
 
-
-
-
     }
 
 }
