@@ -19,11 +19,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void test2(){
 
-        //aaa
-
-        //Vitalya-victor
-
-       // new Victor
 
     }
 
