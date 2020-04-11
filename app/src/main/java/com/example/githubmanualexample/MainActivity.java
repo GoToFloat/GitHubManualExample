@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "aaa1_master_viktor", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "aaa1_master_delete1", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "aaa1_master_delete2", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "add_new_toast pull_request", Toast.LENGTH_SHORT).show();
     }
 }
